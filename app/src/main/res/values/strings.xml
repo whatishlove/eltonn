@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Elton</string>
+    <string name="booking">Booking</string>
+    <string name="bmi">BMI Calculator</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="wr">Workout Routine</string>
+    <string name="calculateBMI">Calculate BMI</string>
+    <string name="vsu">Very Severely Underweight!</string>
+    <string name="su">Severely Underweight!</string>
+    <string name="u">Underweight!</string>
+    <string name="n">Normal!</string>
+    <string name="o">Overweight!</string>
+    <string name="oci">Obese Class 1</string>
+    <string name="ocii">Obese Class 2</string>
+    <string name="ociii">Obese Class 3</string>
+</resources>
